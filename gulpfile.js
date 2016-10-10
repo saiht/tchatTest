@@ -1,6 +1,5 @@
 /**
- * @author  Boyer Julien
- * @date    Septembre 2016
+ * @date    Octobre 2016
  * @license MIT
  *
  * The build process consists of following steps:
